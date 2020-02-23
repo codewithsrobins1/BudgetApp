@@ -1,6 +1,6 @@
 # Budget Tracker
 
-An applicaiton made using Javascript to help keep track of your budget.
+An application made using Javascript to help keep track of your budget.
 
 ## Link to Live Site
 
