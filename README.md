@@ -2,7 +2,9 @@
 
 An application made using Javascript to help keep track of your budget.
 
-## Link to Live Site
+## Screenshot
+
+![photo-of-app](https://github.com/codewithsrobins1/BudgetApp/blob/master/readmeImg.PNG?raw=true)
 
 ### Built With
 
